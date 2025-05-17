@@ -76,9 +76,15 @@ Visit: `http://127.0.0.1:8000`
 
 ## 🌐 How It Works
 
-* User submits a long URL
-* Laravel generates a 6-character short code
-* User is redirected when accessing the short URL
+Open your browser: http://127.0.0.1:8000
+
+Enter a long URL (e.g., https://example.com)
+
+Click Shorten
+
+You'll get a shortened URL (like http://127.0.0.1:8000/abc123)
+
+Visit that short URL — it should redirect you to the original
 
 ---
 
