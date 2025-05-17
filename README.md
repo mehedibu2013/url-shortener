@@ -1,9 +1,8 @@
-### 📄 `README.md`
-
 ````markdown
 # 🔗 Laravel URL Shortener
 
-A simple Laravel-based application that allows users to shorten long URLs and redirect using custom short codes.
+A simple Laravel-based application that allows users to shorten long URLs 
+and redirect using custom short codes.
 
 ---
 
